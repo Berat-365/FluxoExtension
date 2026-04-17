@@ -1,27 +1,31 @@
-<h1 align="center">Fluxo için tarayıcı eklentisi</h1>
+<h1 align="center">Fluxo Browser Extension</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.3.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-Custom-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/status-Beta-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-6.2.42.117-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-Undetermined/Custom-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-Under Development (Hidden)-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Vizyon 
+## ✨ Fluxo v5.3.0 Beta
 
-Kişiselleştirme olanaklarının açık olduğu modern tarayıcı anasayfası projesi
+Available on the Microsoft add-on store.
 
-Beta yolculuğu boyunca Daha fazla araç, Daha optimize bir sistem ve Hataların en aza indirgenmiş bir versiyonunu elde etmek istiyoruz
+---
 
-Kullanıcıya yakın hissettirecek ve geliştiricileri darlamayacak bir politika izleyeceğiz
+## ✨ Fluxo v6.2.42.117 (Development Phase)
 
-Fluxo tüm kullanıcılara hitap etmeli bu yüzden kişiselleştirme özellikleri üzerinde çalışmalar yapacağız
+Fluxo is a homepage project. It's a customizable, secure, and feature-rich system.
 
-Tamamen sorunsuz yayınlanma v8 sürümünde gerçekleştirilecektir (Şu anki sürüm: 5.3.0, üzerinde çalıştığımız güncelleme paketi: v6)
+It appeals to all users: those who appreciate simplicity, professionals...
 
-## ❗️ Topluluğa Uyarı
+An ecosystem on your homepage with multiple user tools.
 
-Şu an Fluxo beta durumdadır bu yüzden politika ve lisans tamamen hazırlanmamıştır gelişim sürecinde bize destek çıkmak isterseniz yakında açık kaynak kodu paylaşılacaktır
+> Fluxo version 6.2.42.117 has not yet been released; the version currently available on the Microsoft Add-ons Store is v5.3.0 Beta. Fluxo version 6.2.42.117 is planned to be fully ready in the last months of 2026, 'it may be sooner'.
 
-Fluxo 5.3.0 sürümünden itibaren hatalar ile karşılaşabilirsiniz bunlar beta için normal hatalardır
+## ❗️ Community Information
+
+The current Fluxo release is beta, so the policies and license are not yet fully finalized. The open source code, policies, and license will be fully explained and added to GitHub in Fluxo version 6.
+
+Fluxo receives updates in packages.
