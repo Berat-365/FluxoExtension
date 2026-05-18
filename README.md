@@ -1,9 +1,17 @@
-<h1 align="center">Fluxo Browser Extension</h1>
+<h1 align="center">Fluxo Browser Extension (v5.3.0)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.2.42.117-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-5.3.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/license-Undetermined/Custom-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/status-Under Development (Hidden)-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-Beta-orange?style=for-the-badge" />
+</p>
+
+<h1 align="center">Fluxo Browser Extension (v6)</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-6x-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-Undetermined/Custom-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-Under Development-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -12,9 +20,11 @@
 
 Available on the Microsoft add-on store.
 
+*New* | Fluxo has been released for browsers other than Microsoft Edge.
+
 ---
 
-## ✨ Fluxo v6.2.42.117 (Development Phase)
+## ✨ Fluxo v6 (Development Phase)
 
 Fluxo is a homepage project. It's a customizable, secure, and feature-rich system.
 
